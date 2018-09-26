@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LazyToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="textView">Description</string>
+    <string name="descriptionText">This is a description a what i want the text view to looklike. Is this not fantastic?</string>
+    <string name="date">24th September 2018</string>
+</resources>
